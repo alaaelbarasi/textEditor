@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2013\Projects\editor\editor\bin\Debug\editor.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\editor\editor\bin\Debug\editor.exe
+c:\users\dell\documents\visual studio 2013\Projects\editor\editor\bin\Debug\editor.pdb
+c:\users\dell\documents\visual studio 2013\Projects\editor\editor\obj\Debug\editor.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\editor\editor\obj\Debug\editor.Form1.resources
+c:\users\dell\documents\visual studio 2013\Projects\editor\editor\obj\Debug\editor.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\editor\editor\obj\Debug\editor.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\editor\editor\obj\Debug\editor.exe
+c:\users\dell\documents\visual studio 2013\Projects\editor\editor\obj\Debug\editor.pdb
